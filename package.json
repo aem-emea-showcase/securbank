@@ -1,5 +1,5 @@
 {
-  "name": "securbank-aem-ue",
+  "name": "securbank",
   "private": true,
   "version": "1.4.0",
   "description": "FSI Demo Project for Adobe Experience Manager",
@@ -20,9 +20,9 @@
   "author": "Adobe",
   "license": "Apache License 2.0",
   "bugs": {
-    "url": "https://github.com/markszulc/securbank-aem-ue/issues"
+    "url": "https://github.com/aem-emea-showcase/securbank/issues"
   },
-  "homepage": "https://github.com/markszulc/securbank-aem-ue#readme",
+  "homepage": "https://github.com/aem-emea-showcase/securbank#readme",
   "devDependencies": {
     "@babel/eslint-parser": "7.25.9",
     "eslint": "8.57.1",
